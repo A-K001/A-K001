@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋! I'm Aayush Kumar
+📊 Data analyst | Coder | 📈 Problem Solver `
 
-<!--
-**A-K001/A-K001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+**📚 About Me**
+🎓
+🔍 
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💡 What I Do**
+📊 Data Analysis & Statistical Modeling – Finding patterns in data to drive decisions.
+🧠 Mathematical Optimization – Applying math to solve complex challenges.
+📈 Visualization & Insights – Communicating data-driven stories effectively.
+
+-----
+
+**🛠️ Tech Stack**
+🐍 Python | C++ | 📂 SQL | 📉 Advansed Excel | C | 📊 Power BI & Tableau | AutoCad
+
+----
+
+**🌱 Currently Learning**
+🚀 Advanced machine learning techniques & statistical methods in Python.
+
+-----
+
+**⚡ Fun fact:**
+🖌️ Passionate about art & creativity | 🎭 Emotionally expressive | 💡 Ideas strike at odd hours 🌍 Inspired by the world | 🧐 Daydreamer & innovator | 🎵 Multitalented experimenter
+
+----
+
+📫 How to reach me: ... [Linkedin].(https://www.linkedin.com/in/aayush-kumar1) 
+
