@@ -31,5 +31,6 @@
 
 
 
-## 📫 How to reach me: ... [Linkedin].(https://www.linkedin.com/in/aayush-kumar1) 
+## 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/aayush-kumar1) 
+
 
