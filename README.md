@@ -1,33 +1,33 @@
 ## Hi there 👋! I'm Aayush Kumar
-📊 Data analyst | Coder | 📈 Problem Solver 
+📊 computer engineer | Data analyst | Coder | 📈 Problem Solver 
 
 
 
-## 📚 About Me**
-🎓 sdf
-🔍 fds
+## 📚 About Me
+🎓 Currentely studying in **BP Poddar Instute Of Management and Technology** 
+🔍 Also preparing for **GATE Exams** and exploring other useful skills
 
 
 
 ## 💡 What I Do
-📊 **Data Analysis** & Statistical Modeling – Finding patterns in data to drive decisions.
-🧠 Mathematical Optimization – Applying math to solve complex challenges.
-📈 Visualization & Insights – Communicating data-driven stories effectively.
+📊 **Data Analysis & Statistical Modeling** – Finding patterns in data to drive decisions.
+📈 **Visualization & Insights** – Communicating data-driven stories effectively.
+🧠 **DSA** - Solving complex problems and learning new algorithms.  
 
 
 
 ## 🛠️ Tech Stack
-🐍 Python | C++ | 📂 SQL | 📉 Advansed Excel | C | 📊 Power BI & Tableau | AutoCad
+🐍 Python | C++ | C | 📂 SQL | 📉 Advansed Excel | 📊 Power BI & Tableau | AutoCad
 
 
 
 ## 🌱 Currently Learning
-🚀 Advanced machine learning techniques & statistical methods in Python.
+🚀 Data analysis, DSA in C++.
 
 
 
 ## ⚡ Fun fact:
-🖌️ Passionate about art & creativity | 🎭 Emotionally expressive | 💡 Ideas strike at odd hours 🌍 Inspired by the world | 🧐 Daydreamer & innovator | 🎵 Multitalented experimenter
+Beatboxer | Reliable |🖌️ Passionate about art & creativity | 💡 Ideas strike at odd hours | 🌍 Inspired by the world | 🎵 Multitalented experimenter
 
 
 
