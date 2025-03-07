@@ -1,5 +1,5 @@
 ## Hi there 👋! I'm Aayush Kumar
-📊 computer engineer | Data analyst | Coder | 📈 Problem Solver 
+📊 Computer Engineer | Data analyst | Coder | 📈 Problem Solver 
 
 
 
